@@ -25,11 +25,12 @@ Windows:
 .\venv38\Scripts\activate
 ```
 
-3. Go to `./docs` directory and compile
+3. Go to `./docs` and compile
 
 ```
 make hmtl
 ```
 
+For more on creating you own Sphinx projects visit the [official documentation](https://docs.readthedocs.io/en/stable/intro/getting-started-with-sphinx.html)
 
 
