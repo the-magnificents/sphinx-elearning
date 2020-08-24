@@ -1,11 +1,11 @@
 # Sphinx Template
 The bare minimun for generating documentation using Sphinx 4.x. It includes a style guide and a virtual environment with Python 3.8 and the required extension
 
-# Prerequisits:
+## Prerequisits:
 
 A IDE with support for RST. We recommend [VS Code](https://code.visualstudio.com/download)
 
-# Installation
+## Installation:
 
 1. Clone the repository
 
