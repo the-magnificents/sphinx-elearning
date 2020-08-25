@@ -220,7 +220,7 @@ Question
 QGIS Icons
 ----------
 
-We use the icons library vor version 3.10 creatred by the QGIS community. Icons are referenced suing **substitutions**. To use such substitutions you only need to know the ``|lable|`` of the substitution.
+We use the icons library for version 3.10 creatred by the QGIS community. Icons are referenced using **substitutions**. To use such substitutions you only need to know the ``|lable|`` of the substitution.
 You can find a complete list of substitution and their lables in the `QGIS document guidelines <https://docs.qgis.org/3.10/en/docs/documentation_guidelines/substitutions.html>`_. 
 
 .. code-block:: rst
@@ -254,7 +254,7 @@ Except inside admonitions, *video* are declared without any spacing to the left,
 Text Formatting Guidelines
 --------------------------
 
-This section describe a list of formating convention used in the online core exercise. These should be followed to maitain consistency in 
+This section describe a list of formatting conventions used in the online core exercise. These should be followed to maitain consistency.
 
 =============================================   ==================================================    ====================================================
 Content                                         Style                                                 Example
