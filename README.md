@@ -1,5 +1,5 @@
 # Sphinx Template
-The bare minimun for generating documentation using Sphinx 4.x. It includes a style guide and a virtual environment with Python 3.8 and the required extension
+The bare minimun for generating documentation using Sphinx 4.x. It includes a style guide used in the Core-Online.
 
 ## Prerequisits:
 
