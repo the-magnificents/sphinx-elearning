@@ -130,6 +130,7 @@ dmypy.json
 
 # Sphinx
 .docs/build/
+./venv38/
 
 # VS Code
 .vscode/
