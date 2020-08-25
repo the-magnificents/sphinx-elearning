@@ -3,7 +3,7 @@ The bare minimun for generating documentation using Sphinx 4.x. It includes a st
 
 ## Prerequisits:
 
-* Python 3.6+, we tested the code using Pyton 3.8
+* Python 3.6+, we tested the code using Phyton 3.8
 * An IDE with support for RST. We recommend [VS Code](https://code.visualstudio.com/download)
 
 ## Installation:
@@ -47,6 +47,6 @@ $ pip install -r requirements.txt
 $ make html
 ```
 
-For more on creating you own Sphinx projects visit the [official documentation](https://docs.readthedocs.io/en/stable/intro/getting-started-with-sphinx.html)
+For more on creating you own Sphinx projects visit the [official documentation.](https://docs.readthedocs.io/en/stable/intro/getting-started-with-sphinx.html)
 
 
