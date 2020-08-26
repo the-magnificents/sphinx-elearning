@@ -30,7 +30,7 @@ Figure
    This is a figure, an image plus a caption. Use always with images describing processing steps or activities and add a meaningful caption.
    A reference to the figure looks like this :numref:`figquerysimple`.
    
-   .. _mylabel:
+   .. _figquerysimple:
    .. figure:: _static/img/task-simple-query.png
       :alt: simple query
       :figclass: align-center
