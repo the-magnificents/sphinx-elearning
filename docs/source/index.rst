@@ -8,9 +8,11 @@ Welcome to template's documentation!
 
 .. toctree::
    :maxdepth: 2
+   :numbered:
    :caption: Contents:
 
    style-guide
+   style-demo
 
 Indices and tables
 ==================
