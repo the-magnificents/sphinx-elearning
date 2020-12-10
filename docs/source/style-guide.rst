@@ -6,7 +6,7 @@ This document describe formatting and styling conversions addopted in the exerci
 Sphinx provides a bigger variety of option to format content. However, for the sake of consistency and simplicity we only use a subset in these exercises.
 
 .. note::
-   This style convernsion are based on the theme by `Read the Docs <https://sphinx-rtd-theme.readthedocs.io/en/stable/demo/structure.html>`_
+   These style convernsions are based on the theme by `Read the Docs <https://sphinx-rtd-theme.readthedocs.io/en/stable/demo/structure.html>`_
 
 
 Structure
