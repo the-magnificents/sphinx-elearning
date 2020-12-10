@@ -13,9 +13,9 @@ The current workflow for updating exercises relies on sharing folders thru the l
 
 During the course exercies are uploaded to a Learning Management System (LMS) where students will find them. Exercises are upload to the LMS as PDF files. When the exercises required urgent changes during the course, a lecturer should update the MS Word document, convert it to a PDF file, delete the current file in the LMS, upload the new file to the LMS and publising the file to course's main page. This workflow is prone to errors, lecturers accidentally delete important files in the LMS or upload the wrong files; after all they have deal with many versions and copies in the shared folders.
  
-+ Wouldn't be grate if lecturers could update exercises collaboratively? 
-+ Wouldn't be awesome if they could automate the process of updating and publishing exercises on the LMS?
-+ In what other ways could lecturers benefit from the points above?
++ **Wouldn't be grate if lecturers could update exercises collaboratively?** 
++ **Wouldn't be awesome if they could automate the process of updating and publishing exercises on the LMS?**
++ **In what other ways could lecturers benefit from the points above?**
 
 -------------------------------
 
