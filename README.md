@@ -3,6 +3,8 @@ An example of how Sphinx can be used in online education when the participation 
 
 The repo provides a template with the bare minimun for generating documentation using Sphinx 4.x. It includes a style guide used in an online course.
 
+
+--------------
 ## Use Case
 
 For many years, the courseware has been prepared by at least 30 lectures with expertise in a variety of topics. A major component of the course is the developig of practical skill for the manipulation and analysis of geographic data. Lectures prepare and update exercises for the course, exercise are sometime updated by a single lecturer, but most of the times a single exercise is updated by two or more lecturers. For the sake of quality control, exercises should be revised and updated (if required) every year.
@@ -15,13 +17,15 @@ During the course exercies are uploaded to a Learning Management System (LMS) wh
 + Wouldn't be awesome if they could automate the process of updating and publishing exercises on the LMS?
 + In what other ways could lecturers benefit from the points above?
 
+-------------------------------
 
-## Prerequisits:
+## Installation:
+
+### Prerequisites:
 
 * Python 3.6+, we tested the code using Phyton 3.8
 * An IDE with support for RST. We recommend [VS Code](https://code.visualstudio.com/download)
 
-## Installation:
 
 1. Clone the repository
 
@@ -29,14 +33,21 @@ During the course exercies are uploaded to a Learning Management System (LMS) wh
 git clone https://github.com/manuGil/sphinx-itc-template.git
 ```
 
-2. Go to the root of the repository and create a virtual environment
+2. Install Python's virtual environment
+
+
+``` shell
+$ apt-get install python3-venv
+```
+
+3. Go to the root of the repository and create a virtual environment
 
 ``` shell
 $ cd .../sphinx-itc-template
 $ python3 -m venv ./venv
 ```
 
-3. Activate the virtual environment
+4. Activate the virtual environment
 
 * Linux:
 
@@ -50,13 +61,13 @@ $ source ./venv/bin/activate
 > .\venv\Scripts\activate
 ```
 
-4. Use pip to install the required packages
+5. Use pip to install the required packages
 
 ``` shell
 $ pip install -r requirements.txt
 ```
 
-3. Go to `./docs` and compile
+6. Go to `./docs` and compile
 
 ``` shell
 $ make html
